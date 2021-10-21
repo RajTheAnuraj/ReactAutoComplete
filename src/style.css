@@ -1,0 +1,22 @@
+*{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+input{
+    padding:10px;
+    margin:20px;
+}
+
+.autocomplete{
+    background-color: darkslategrey;
+    color: #ffffff;
+    border-radius: 10px;
+    border: solid 1px black;
+    height: 20px;
+    width: 800px;
+    /* box-shadow: 10px 10px 8px 5px #888888; */
+}
+
+.autocomplete:focus{
+    /* box-shadow: 10px 10px 8px 10px #888888; */
+}
